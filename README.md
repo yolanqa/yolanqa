@@ -1,5 +1,5 @@
 <div align="center">
-### Hi, I'm Yolanda 👋
+# Hi, I'm Yolanda 👋
 
 I'm a Computer Science student at the University of Bucharest. I'm interested in compilers, formal languages, and automata theory.
 
@@ -7,7 +7,7 @@ I'm a Computer Science student at the University of Bucharest. I'm interested in
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yolanda-stefanescu-a3132b413)
 
 </div>
----
+
 
 💻 **Languages**
 
