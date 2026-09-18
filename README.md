@@ -1,5 +1,6 @@
 <div align="center">
-# Hi, I'm Yolanda 👋
+  
+## Hi, I'm Yolanda 👋
 
 I'm a Computer Science student at the University of Bucharest. I'm interested in compilers, formal languages, and automata theory.
 
